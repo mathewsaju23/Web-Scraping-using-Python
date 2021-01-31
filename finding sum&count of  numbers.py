@@ -15,4 +15,4 @@ for tag in tags:
   c=int(tag.contents[0])
   li.append(c)
 print('Count',count)
-print('Sum',sum(li))
+print('Sum =',sum(li))
